@@ -1,11 +1,11 @@
-Rock Paper Scissors 
+# Rock Paper Scissors 
 
-* Play Game:
+* ### Play Game:
 ```
 npm run play
 ```
 
-* Run Tests:
+* ## Run Tests:
 ```
 npm run test
 ```
