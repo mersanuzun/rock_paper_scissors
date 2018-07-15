@@ -5,7 +5,7 @@ Implemented rock, paper, scissors game with using nodejs. It is terminal based a
 npm run play
 ```
 
-* ## Run Tests:
+* ### Run Tests:
 ```
 npm run test
 ```
